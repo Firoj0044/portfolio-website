@@ -354,6 +354,14 @@ section {
 }
 
 /* ===== Skills Section ===== */
+.skills-subtitle {
+    font-size: 1.2rem;
+    color: var(--primary);
+    margin: 30px 0 20px;
+    padding-left: 15px;
+    border-left: 4px solid var(--primary);
+}
+
 .skills-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
