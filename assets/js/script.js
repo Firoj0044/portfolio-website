@@ -33,11 +33,12 @@ document.querySelectorAll('.nav-links a').forEach(link => {
 const typedText = document.querySelector('.typed-text');
 const words = [
     'Bot Developer',
-    'AI Developer',
+    'AI Engineer',
     'Web Scraper',
     'FastAPI Developer',
     'ML Engineer',
     'Automation Expert',
+    'LLM Developer',
     'Python Developer'
 ];
 
